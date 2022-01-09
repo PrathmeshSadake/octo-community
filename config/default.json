@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://prathmeshsadake:prathmeshsadake@cluster0.wivqa.mongodb.net/octo-community?retryWrites=true&w=majority",
-  "jwtSecret": "prathmeshsadake"
-}
